@@ -5,6 +5,7 @@ var domains = {
   "github.com": 1,
   "apple.com": 1,
   "google.com": 1
+  "githubusercontent.com": 1
   
   "careercup.com": 1,
   "gimpshop.com": 1, 
