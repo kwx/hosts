@@ -1,6 +1,4 @@
 
-<<<<<<< HEAD:pac.txt
-
 //	Generated	by	gfwlist2pac
 //	https://github.com/clowwindy/gfwlist2pac
 
