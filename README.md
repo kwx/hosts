@@ -1,6 +1,6 @@
 ﻿####Usage
-1. [打开hosts](https://raw.githubusercontent.com/DingSoung/hosts/master/hosts)，全选复制,覆盖C:\Windows\System32\drivers\etc\hosts(windows), \etc\hosts (Android Mac Linux)并保存
-2. 如果失效，到右边提交issues
+1. 在项目页面的右边“Download ZIP”,本地解压缩打卡，windows管理员权限双击update.bat, Mac/Linux 双击update.sh，即可完成更新
+2. 如果失效，请到项目页面右边提交issues
 
 ####update
 hosts 来源 [imouto.hosts](https://github.com/zxdrive/imouto.host)
