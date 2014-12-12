@@ -1,5 +1,5 @@
 ﻿####Usage
-1. 在项目页面的右边“Download ZIP”,本地解压缩打卡，windows管理员权限双击update.bat, Mac/Linux 双击update.sh，即可完成更新
+1. 在项目页面的右边“Download ZIP”并解压缩，windows管理员权限双击update.bat, Mac/Linux 双击update.sh，即可完成更新
 2. 如果失效，请到项目页面右边提交issues
 
 ####update
