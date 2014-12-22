@@ -11522,59 +11522,6 @@
 192.35.51.30     ne1.farm7.staticflickr.com
 192.54.112.30    ne1.farm7.staticflickr.com
 # Section End: flickr
-
-# Section Start: github
-192.30.252.129   github.com
-192.30.252.130   github.com
-204.13.250.16    github.com
-199.27.79.133    raw.github.com
-185.31.18.133    raw.github.com
-103.245.222.133  raw.github.com
-185.31.17.133    raw.github.com
-204.13.250.16    raw.github.com
-192.30.252.142   gist.github.com
-192.30.252.143   gist.github.com
-192.30.252.141   gist.github.com
-216.234.179.13   gist.github.com
-192.26.92.30     gist.github.com
-199.27.79.133    developer.github.com
-185.31.18.133    developer.github.com
-103.245.222.133  developer.github.com
-185.31.17.133    developer.github.com
-192.26.92.30     developer.github.com
-192.26.92.30     api.github.com
-192.31.80.30     api.github.com
-192.55.83.30     api.github.com
-192.54.112.30    api.github.com
-192.41.162.30    api.github.com
-199.27.79.184    github.global.ssl.fastly.net
-103.245.222.185  github.global.ssl.fastly.net
-103.245.222.184  github.global.ssl.fastly.net
-185.31.17.185    github.global.ssl.fastly.net
-185.31.18.185    github.global.ssl.fastly.net
-199.27.79.133    documentcloud.github.com
-185.31.18.133    documentcloud.github.com
-103.245.222.133  documentcloud.github.com
-185.31.17.133    documentcloud.github.com
-204.13.250.16    documentcloud.github.com
-199.27.79.133    help.github.com
-185.31.18.133    help.github.com
-103.245.222.133  help.github.com
-185.31.17.133    help.github.com
-204.13.250.16    help.github.com
-192.30.252.147   nodeload.github.com
-204.13.250.16    nodeload.github.com
-208.78.70.16     nodeload.github.com
-23.20.32.221     status.github.com
-54.161.104.27    status.github.com
-54.147.173.45    status.github.com
-199.27.79.133    training.github.com
-185.31.18.133    training.github.com
-103.245.222.133  training.github.com
-185.31.17.133    training.github.com
-192.26.92.30     training.github.com
-# Section End: github
-
 # Section Start: dropbox
 108.160.165.62   dropbox.com
 205.251.193.59   dropbox.com
