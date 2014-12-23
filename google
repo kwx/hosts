@@ -1,10 +1,12 @@
-
+#google hosts 2014 by 360kb.com
+#base services
 64.233.168.82		www.google.com.hk
 64.233.168.82		www.google.com
 203.208.46.132		accounts.google.com 
 203.208.46.132		accounts.l.google.com
 203.208.46.132		mail.google.com 
-
+#base services
+#google apis
 64.233.168.82		apis.google.com
 64.233.168.82		www.googleapis.com 
 64.233.168.82		android.googleapis.com 
@@ -21,7 +23,9 @@
 64.233.168.82		storage.googleapis.com 
 64.233.168.82		commondatastorage.googleapis.com 
 64.233.168.82		static.panoramio.com.storage.googleapis.com 
-
+#google apis
+#google static
+#Gstatic¡ý 
 64.233.168.82		www.gstatic.com 
 64.233.168.82		ssl.gstatic.com 
 64.233.168.82		csi.gstatic.com 
@@ -59,7 +63,9 @@
 64.233.168.82		t5.gstatic.com 
 64.233.168.82		t6.gstatic.com 
 64.233.168.82		t7.gstatic.com 
-
+#Gstatic¡ü 
+#google static
+#google usercontent¡ý 
 64.233.168.82		www.googleusercontent.com 
 64.233.168.82		googlehosted.l.googleusercontent.com 
 64.233.168.82		oauth.googleusercontent.com 
@@ -333,8 +339,8 @@
 64.233.168.82		clients4.google.com
 64.233.168.82		clients5.google.com
 64.233.168.82		clients6.google.com
-#google usercontent? 
-#google upload? 
+#google usercontent¡ü 
+#google upload¡ý 
 64.233.168.82		uploads.clients.google.com 
 64.233.168.82		uploads.client.google.com 
 64.233.168.82		upload.clients.google.com 
@@ -731,3 +737,5 @@
 64.233.168.82		golang.org 
 64.233.168.82		play.golang.org 
 64.233.168.82		feeds.feedburner.com 
+#google others
+#google hosts 2014 end

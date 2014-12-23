@@ -13,5 +13,3 @@
 
 @echo "block ads"
 @copy /b C:\Windows\system32\drivers\etc\hosts + ads C:\Windows\system32\drivers\etc\hosts
-
-@pause
