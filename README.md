@@ -1,6 +1,7 @@
-####Usage
+﻿####Usage
 1. 在项目页面的右边“Download ZIP”并解压缩，windows管理员权限双击update.bat, Mac/Liux 在终端执行 sudo update.sh，即可完成更新
-2. 欢迎fork 和pull request，或者到项目页面右边提交issues
+2. 我并不生产ip,大部分hosts均来自互联网，只是就放到这里，方便更多可能需要用到的人
+3. 欢迎fork 和pull request，或者到项目页面右边提交issues
 
 ####update
 hosts 来源 [imouto.hosts](https://github.com/zxdrive/imouto.host)
