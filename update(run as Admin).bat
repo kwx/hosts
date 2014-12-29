@@ -1,18 +1,17 @@
-@echo off
-@ipconfig /flushdns
+@echo off	
+@ipconfig /flushdns	
 
-@echo "basic hosts"
-@copy /y hosts C:\Windows\system32\drivers\etc\hosts
-
+@echo "basic hosts"	
+@copy /y hosts C:\Windows\system32\drivers\etc\hosts	
+	
 @echo "google IP"
-@copy /b C:\Windows\system32\drivers\etc\hosts + google  C:\Windows\system32\drivers\etc\hosts
+@copy /b C:\Windows\system32\drivers\etc\hosts + google  C:\Windows\system32\drivers\etc\hosts	
 
+@echo "apple facebook twitter youtube dropbox and others ip"		
+@copy /b C:\Windows\system32\drivers\etc\hosts + others  C:\Windows\system32\drivers\etc\hosts	
 
-@echo "apple facebook twitter youtube dropbox and others ip"
-@copy /b C:\Windows\system32\drivers\etc\hosts + others  C:\Windows\system32\drivers\etc\hosts
+@echo "block ads"	
+@copy /b C:\Windows\system32\drivers\etc\hosts + ads C:\Windows\system32\drivers\etc\hosts	
 
-@echo "block ads"
-@copy /b C:\Windows\system32\drivers\etc\hosts + ads C:\Windows\system32\drivers\etc\hosts
-
-@echo "Èç¹û×Ü¹²ÏÔÊ¾¿½±´ÁË4¸öÎÄ¼ş£¬±íÊ¾¸üĞÂ³É¹¦£¬·ñÔòÄãĞèÒªÈ·ÈÏÊÇÊ¹ÓÃ¹ÜÀíÔ±È¨ÏŞ£¬»òÊÖ¶¯»ñÈ¡hostsÈ¨ÏŞ£¬»òÕß¼ì²é360µÈ°²È«Î»ÖÃÈí¼şÎÊÌâ"
-@pause
+@echo "å¦‚æœæ€»å…±æ˜¾ç¤ºæ‹·è´äº†4ä¸ªæ–‡ä»¶ï¼Œè¡¨ç¤ºæ›´æ–°æˆåŠŸï¼Œå¦åˆ™ä½ éœ€è¦ç¡®è®¤æ˜¯ä½¿ç”¨ç®¡ç†å‘˜æƒé™ï¼Œæˆ–æ‰‹åŠ¨è·å–hostsæƒé™ï¼Œæˆ–è€…æ£€æŸ¥360ç­‰å®‰å…¨ä½ç½®è½¯ä»¶é—®é¢˜"	
+@pause	
