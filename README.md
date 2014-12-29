@@ -1,6 +1,6 @@
 ####Usage
-方法一. 在项目页面的右边“Download ZIP”并解压缩，windows管理员权限双击update.bat, Mac/Liux 在终端执行 sudo update.sh，即可完成更新
-方法二. 者到这里下载[Release](https://github.com/DingSoung/hosts/releases)(windows用户可能需要用专业文本编辑器转换为带windows换行符的格式),再替换本地hosts
+2. 在项目页面的右边“Download ZIP”并解压缩，windows管理员权限双击update.bat, Mac/Liux 在终端执行 sudo update.sh，即可完成更新
+2. 或者到这里下载[Release](https://github.com/DingSoung/hosts/releases)(windows用户可能需要用专业文本编辑器转换为带windows换行符的格式),再替换本地hosts
 
 ####Declare
 1. 我并不生产ip,大部分hosts均来自互联网，只是就放到这里，方便更多可能需要用到的人
