@@ -7,18 +7,18 @@ while read Line
 do
 	echo $Line >> /etc/hosts
 	echo $Line
-done < google
+done < google.txt
 
 echo "apple facebook twitter youtube dropbox and others ip"
 while read Line
 do
 echo $Line >> /etc/hosts
 echo $Line
-done < others
+done < others.txt
 
 echo "block ads"
 while read Line
 do
 echo $Line >> /etc/hosts
 echo $Line
-done < ads
+done < ads.txt
