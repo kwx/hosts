@@ -1,7 +1,6 @@
 ####Usage
-2. 在项目页面的右边“Download ZIP”并解压缩，windows管理员权限双击update.bat, Mac/Liux 在终端执行 sudo update.sh，即可完成更新
-2. 或者到这里下载[Release](https://github.com/DingSoung/hosts/releases)(windows用户可能需要用专业文本编辑器转换为带windows换行符的格式),再替换本地hosts
-
+1. 自動更新方法:在项目页面的右边“Download ZIP”并解压缩，windows管理员权限双击update.bat, Mac/Liux 在终端执行 sudo update.sh，即可完成更新,對應使用restore.bat restore.sh 還原默認hosts
+2. 手動更新方法:到這裏下載[Release](https://github.com/DingSoung/hosts/releases)(windows用户可能需要用专业文本编辑器转换为带windows换行符的格式),再替换本地hosts
 ####Declare
 1. 我并不生产ip,大部分hosts均来自互联网，只是就放到这里，方便更多可能需要用到的人
 2. 使用该hosts前请自行百科，需要明确可能带来的问题，请自行承担风险
