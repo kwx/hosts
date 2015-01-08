@@ -1,11 +1,15 @@
 ﻿#google hosts 2015 by 360kb.com
 #base services
-64.233.176.113    www.google.com.hk
-64.233.176.113    www.google.com
-203.208.46.132    accounts.google.com 
-203.208.46.132    accounts.l.google.com
-203.208.46.132    mail.google.com 
+203.208.46.134	spreadsheets.google.com
+203.208.46.134	drive.google.com
+203.208.46.134	accounts.google.com
+203.208.46.134	clients3.google.com
+
+203.208.46.134	www.google.com.hk
+203.208.46.134	www.google.com
+203.208.46.134	mail.google.com 
 #base services
+
 #google apis
 64.233.176.113    apis.google.com
 64.233.176.113    www.googleapis.com 
@@ -24,8 +28,8 @@
 64.233.176.113    commondatastorage.googleapis.com 
 64.233.176.113    static.panoramio.com.storage.googleapis.com 
 #google apis
+
 #google static
-#Gstatic↓ 
 64.233.176.113    www.gstatic.com 
 64.233.176.113    ssl.gstatic.com 
 64.233.176.113    csi.gstatic.com 
@@ -63,8 +67,8 @@
 64.233.176.113    t5.gstatic.com 
 64.233.176.113    t6.gstatic.com 
 64.233.176.113    t7.gstatic.com 
-#Gstatic↑ 
 #google static
+
 #google usercontent↓ 
 64.233.176.113    www.googleusercontent.com 
 64.233.176.113    googlehosted.l.googleusercontent.com 
@@ -339,49 +343,51 @@
 64.233.176.113    clients4.google.com
 64.233.176.113    clients5.google.com
 64.233.176.113    clients6.google.com
-#google usercontent↑ 
+#google usercontent↑
+
 #google upload↓ 
 64.233.176.113    uploads.clients.google.com 
-64.233.176.113    uploads.client.google.com 
-64.233.176.113    upload.clients.google.com 
-64.233.176.113    upload.client.google.com 
-64.233.176.113    upload.google.com 
-64.233.176.113    upload.docs.google.com 
-64.233.176.113    upload.photos.google.com 
-64.233.176.113    upload.drive.google.com 
-64.233.176.113    upload.video.google.com 
-64.233.176.113    upload.youtube.com 
-64.233.176.113    uploads.stage.gdata.youtube.com 
-64.233.176.113    uploads.code.google.com 
+203.208.46.134   uploads.client.google.com 
+203.208.46.134   upload.clients.google.com 
+203.208.46.134   upload.client.google.com 
+203.208.46.134   upload.google.com 
+203.208.46.134   upload.docs.google.com 
+203.208.46.134   upload.photos.google.com 
+203.208.46.134   upload.drive.google.com 
+203.208.46.134   upload.video.google.com 
+203.208.46.134   upload.youtube.com 
+203.208.46.134   uploads.stage.gdata.youtube.com 
+203.208.46.134   uploads.code.google.com 
 64.233.176.113    uploads.clients.google.com 
 #google upload 
+
 #google drive 
-64.233.176.113    drive.google.com 
-64.233.176.113    docs.google.com
-64.233.176.113    googledrive.com 
-64.233.176.113    0.docs.google.com 
-64.233.176.113    1.docs.google.com 
-64.233.176.113    2.docs.google.com
-64.233.176.113    3.docs.google.com
-64.233.176.113    4.docs.google.com
-64.233.176.113    5.docs.google.com
-64.233.176.113    6.docs.google.com
-64.233.176.113    7.docs.google.com
-64.233.176.113    8.docs.google.com
-64.233.176.113    9.docs.google.com
-64.233.176.113    10.docs.google.com
-64.233.176.113    0.drive.google.com
-64.233.176.113    1.drive.google.com 
-64.233.176.113    2.drive.google.com 
-64.233.176.113    3.drive.google.com 
-64.233.176.113    4.drive.google.com 
-64.233.176.113    5.drive.google.com 
-64.233.176.113    6.drive.google.com 
-64.233.176.113    7.drive.google.com 
-64.233.176.113    8.drive.google.com 
-64.233.176.113    9.drive.google.com 
-64.233.176.113    10.drive.google.com 
+203.208.46.134	googledrive.com
+203.208.46.134	docs.google.com
+203.208.46.134	0.docs.google.com 
+203.208.46.134   1.docs.google.com 
+203.208.46.134   2.docs.google.com
+203.208.46.134   3.docs.google.com
+203.208.46.134   4.docs.google.com
+203.208.46.134   5.docs.google.com
+203.208.46.134   6.docs.google.com
+203.208.46.134   7.docs.google.com
+203.208.46.134   8.docs.google.com
+203.208.46.134   9.docs.google.com
+203.208.46.134   10.docs.google.com
+203.208.46.134   0.drive.google.com
+203.208.46.134   1.drive.google.com 
+203.208.46.134   2.drive.google.com 
+203.208.46.134   3.drive.google.com 
+203.208.46.134   4.drive.google.com 
+203.208.46.134   5.drive.google.com 
+203.208.46.134   6.drive.google.com 
+203.208.46.134   7.drive.google.com 
+203.208.46.134   8.drive.google.com 
+203.208.46.134   9.drive.google.com 
+203.208.46.134   10.drive.google.com 
 #google drive
+
 #google others
 64.233.176.113    support.google.com 
 64.233.176.113    history.google.com 
