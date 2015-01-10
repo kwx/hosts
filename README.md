@@ -18,6 +18,7 @@
   [盒子](http://www.360kb.com/kb/2_122.html)
   [get hosts](http://serve.netsh.org/pub/gethosts.php)
   [oschina](http://git.oschina.net/jiange1236/googlehosts/)
+  [Acrylated](https://github.com/LGA1150/Acrylated-imouto.host)
 
 ####建议
 
