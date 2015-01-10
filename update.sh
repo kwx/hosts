@@ -2,6 +2,8 @@
 echo "basic hosts"
 cp hosts /etc
 
+git pull
+
 echo "google IP"
 while read Line
 do
