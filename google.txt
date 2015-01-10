@@ -1,91 +1,68 @@
-﻿#Available IPs:
-	#203.208.46.134
-	#222.255.120.23
-	#80.228.65.168
-	#178.60.128.27
-	#93.183.211.219
-	#119.81.145.123
-	#58.145.238.26
-	#58.145.238.42
-	#103.1.139.212
-	#119.81.145.121
-	#194.78.99.44
-	#41.201.128.54
-	#178.60.128.48
-	#178.60.128.38
-	#41.201.164.54
-	#95.143.84.165
-	#119.81.142.202
-	#193.192.226.182
-	#41.201.164.49
-	#80.228.65.158
-	#119.81.145.122
-	#119.81.145.126
-	#193.120.166.95
+﻿#Available IP
 
 #Google Basic
-	203.208.46.134	google.com
-	203.208.46.134	www.google.com
-	203.208.46.134	www.google.com.hk
-	203.208.46.134	accounts.google.com
-	203.208.46.134	mail.google.com
-	203.208.46.134	drive.google.com
-	203.208.46.134	docs.google.com
-	203.208.46.134	play.google.com
-	203.208.46.134	keep.google.com
-	203.208.46.134	developers.google.com
-	203.208.46.134	plus.google.com
-	203.208.46.134	map.google.com
-	203.208.46.134	code.google.com
-	203.208.46.134	news.google.com
-	203.208.46.134	wallet.google.com
-	203.208.46.134	chrome.google.com
-	203.208.46.134	earth.google.com
-	203.208.46.134	books.google.com
-	203.208.46.134	clients.google.com
-	203.208.46.134	news.google.com
-	203.208.46.134	books.google.com
-	203.208.46.134	image.google.com
-	203.208.46.134	answers.google.com
-	203.208.46.134	admin.google.com
-	203.208.46.134	apps.google.com
-	203.208.46.134	appengine.google.com
-	203.208.46.134	blogsearch.google.com
-	203.208.46.134	finance.google.com
-	203.208.46.134	labs.google.com
-	203.208.46.134	m.google.com
-	203.208.46.134	mail.google.com
-	203.208.46.134	places.google.com
-	203.208.46.134	sandbox.google.com
-	203.208.46.134	scholar.google.com
-	203.208.46.134	translate.google.com
-	203.208.46.134	video.google.com
-	203.208.46.134	voice.google.com
+	218.253.0.183	google.com
+	218.253.0.183	www.google.com
+	218.253.0.183	www.google.com.hk
+	218.253.0.183	accounts.google.com
+	218.253.0.183	mail.google.com
+	218.253.0.183	drive.google.com
+	218.253.0.183	docs.google.com
+	218.253.0.183	play.google.com
+	218.253.0.183	keep.google.com
+	218.253.0.183	developers.google.com
+	218.253.0.183	plus.google.com
+	218.253.0.183	map.google.com
+	218.253.0.183	code.google.com
+	218.253.0.183	news.google.com
+	218.253.0.183	wallet.google.com
+	218.253.0.183	chrome.google.com
+	218.253.0.183	earth.google.com
+	218.253.0.183	books.google.com
+	218.253.0.183	clients.google.com
+	218.253.0.183	news.google.com
+	218.253.0.183	books.google.com
+	218.253.0.183	image.google.com
+	218.253.0.183	answers.google.com
+	218.253.0.183	admin.google.com
+	218.253.0.183	apps.google.com
+	218.253.0.183	appengine.google.com
+	218.253.0.183	blogsearch.google.com
+	218.253.0.183	finance.google.com
+	218.253.0.183	labs.google.com
+	218.253.0.183	m.google.com
+	218.253.0.183	mail.google.com
+	218.253.0.183	places.google.com
+	218.253.0.183	sandbox.google.com
+	218.253.0.183	scholar.google.com
+	218.253.0.183	translate.google.com
+	218.253.0.183	video.google.com
+	218.253.0.183	voice.google.com
 	
-	203.208.46.134	picasa.google.com
-	203.208.46.134	picasaweb.google.com
+	218.253.0.183	picasa.google.com
+	218.253.0.183	picasaweb.google.com
 	
-	203.208.46.134	gmail.com
-	203.208.46.134	www.gmail.com
-	203.208.46.134	blogger.com
-	203.208.46.134	inbox.google.com
-	203.208.46.134	www.blogger.com
-	203.208.46.134	blogspot.com
-	203.208.46.134	www.blogspot.com
+	218.253.0.183	gmail.com
+	218.253.0.183	www.gmail.com
+	218.253.0.183	blogger.com
+	218.253.0.183	inbox.google.com
+	218.253.0.183	www.blogger.com
+	218.253.0.183	blogspot.com
+	218.253.0.183	www.blogspot.com
 	
-	203.208.46.134	golang.org
-	203.208.46.134	apis.google.com
-	203.208.46.134	android.googleapis.com
-	203.208.46.134	play.googleapis.com
-	203.208.46.134	plus.googleapis.com
-	203.208.46.134	ajax.googleapis.com
-	203.208.46.134	chart.googleapis.com
-	203.208.46.134	fonts.googleapis.com
-	203.208.46.134	translate.googleapis.com
-	203.208.46.134	maps.googleapis.com
-	203.208.46.134	content.googleapis.com
-	203.208.46.134	storage.googleapis.com
-	203.208.46.134	commondatastorage.googleapis.com
+	218.253.0.183	golang.org
+	218.253.0.183	apis.google.com
+	218.253.0.183	android.googleapis.com
+	218.253.0.183	play.googleapis.com
+	218.253.0.183	plus.googleapis.com
+	218.253.0.183	ajax.googleapis.com
+	218.253.0.183	chart.googleapis.com
+	218.253.0.183	fonts.googleapis.com
+	218.253.0.183	translate.googleapis.com
+	218.253.0.183	maps.googleapis.com
+	218.253.0.183	content.googleapis.com
+	218.253.0.183	storage.googleapis.com
+	218.253.0.183	commondatastorage.googleapis.com
 	
 	208.117.255.230	android.com
 	208.117.255.230	www.android.com
@@ -93,28 +70,28 @@
 	208.117.255.230	market.android.com
 	208.117.255.230	source.android.com
 	
-	203.208.46.134	chromium.org
-	203.208.46.134	www.chromium.org
-	203.208.46.134	dev.chromium.org
+	218.253.0.183	chromium.org
+	218.253.0.183	www.chromium.org
+	218.253.0.183	dev.chromium.org
 	
-	203.208.46.134	support.google.com
-	203.208.46.134	history.google.com
-	203.208.46.134	adwords.google.com
-	203.208.46.134	feedburner.google.com
-	203.208.46.134	feedproxy.google.com
+	218.253.0.183	support.google.com
+	218.253.0.183	history.google.com
+	218.253.0.183	adwords.google.com
+	218.253.0.183	feedburner.google.com
+	218.253.0.183	feedproxy.google.com
 	
-	203.208.46.134	android.googlesource.com
-	203.208.46.134	chromium.googlesource.com
-	203.208.46.134	gerrit.googlesource.com
-	203.208.46.134	kernel.googlesource.com
+	218.253.0.183	android.googlesource.com
+	218.253.0.183	chromium.googlesource.com
+	218.253.0.183	gerrit.googlesource.com
+	218.253.0.183	kernel.googlesource.com
 	
-	203.208.46.134	talkgadget.google.com
-	203.208.46.134	plus.url.google.com
+	218.253.0.183	talkgadget.google.com
+	218.253.0.183	plus.url.google.com
 	
-	203.208.46.134	googlesource.com
-	203.208.46.134	www.googlesource.com
-	203.208.46.134	www.googleusercontent.com
+	218.253.0.183	googlesource.com
+	218.253.0.183	www.googlesource.com
+	218.253.0.183	www.googleusercontent.com
 	
-	203.208.46.134	upload.google.com
-	203.208.46.134	dl.google.com
-	203.208.46.134	desktop.google.com
+	218.253.0.183	upload.google.com
+	218.253.0.183	dl.google.com
+	218.253.0.183	desktop.google.com
