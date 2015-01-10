@@ -1,4 +1,4 @@
-﻿#facebook
+#facebook
 	69.171.255.12		s-static.ak.facebook.net
 	69.171.239.12		s-static.ak.facebook.net
 	118.215.57.82		s-static.ak.facebook.com

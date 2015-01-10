@@ -1,4 +1,4 @@
-﻿#youku
+#youku
 	127.0.0.1  atm.youku.com
 	127.0.0.1  Fvid.atm.youku.com
 	127.0.0.1  html.atm.youku.com
