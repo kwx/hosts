@@ -1,68 +1,71 @@
 ﻿#Available IP
+	#64.15.119.211|64.15.119.211|74.125.21.145|173.194.118.139|173.194.76.146|74.125.192.72|64.233.184.165|64.233.179.148|173.194.117.164|74.125.139.165|74.125.69.164|173.194.194.139|173.194.64.197|64.233.179.82|64.233.183.123|64.233.176.93|173.194.125.50|216.58.208.39|216.58.216.27
 
 #Google Basic
-	218.253.0.183	google.com
-	218.253.0.183	www.google.com
-	218.253.0.183	www.google.com.hk
-	218.253.0.183	accounts.google.com
-	218.253.0.183	mail.google.com
-	218.253.0.183	drive.google.com
-	218.253.0.183	docs.google.com
-	218.253.0.183	play.google.com
-	218.253.0.183	keep.google.com
-	218.253.0.183	developers.google.com
-	218.253.0.183	plus.google.com
-	218.253.0.183	map.google.com
-	218.253.0.183	code.google.com
-	218.253.0.183	news.google.com
-	218.253.0.183	wallet.google.com
-	218.253.0.183	chrome.google.com
-	218.253.0.183	earth.google.com
-	218.253.0.183	books.google.com
-	218.253.0.183	clients.google.com
-	218.253.0.183	news.google.com
-	218.253.0.183	books.google.com
-	218.253.0.183	image.google.com
-	218.253.0.183	answers.google.com
-	218.253.0.183	admin.google.com
-	218.253.0.183	apps.google.com
-	218.253.0.183	appengine.google.com
-	218.253.0.183	blogsearch.google.com
-	218.253.0.183	finance.google.com
-	218.253.0.183	labs.google.com
-	218.253.0.183	m.google.com
-	218.253.0.183	mail.google.com
-	218.253.0.183	places.google.com
-	218.253.0.183	sandbox.google.com
-	218.253.0.183	scholar.google.com
-	218.253.0.183	translate.google.com
-	218.253.0.183	video.google.com
-	218.253.0.183	voice.google.com
+	64.15.119.211	google.com
+	64.15.119.211	www.google.com
+	64.15.119.211	www.google.com.hk
+	64.15.119.211	m.google.com
+	64.15.119.211	accounts.google.com
+	64.15.119.211	mail.google.com
+	64.15.119.211	inbox.google.com
+	64.15.119.211	drive.google.com
+	64.15.119.211	docs.google.com
+	64.15.119.211	play.google.com
+	64.15.119.211	keep.google.com
+	64.15.119.211	developers.google.com
+	64.15.119.211	plus.google.com
+	64.15.119.211	map.google.com
+	64.15.119.211	code.google.com
+	64.15.119.211	news.google.com
+	64.15.119.211	wallet.google.com
+	64.15.119.211	chrome.google.com
+	64.15.119.211	earth.google.com
+	64.15.119.211	books.google.com
+	64.15.119.211	clients.google.com
+	64.15.119.211	news.google.com
+	64.15.119.211	books.google.com
+	64.15.119.211	image.google.com
+	64.15.119.211	answers.google.com
+	64.15.119.211	admin.google.com
+	64.15.119.211	apps.google.com
+	64.15.119.211	appengine.google.com
+	64.15.119.211	blogsearch.google.com
+	64.15.119.211	finance.google.com
+	64.15.119.211	labs.google.com
 	
-	218.253.0.183	picasa.google.com
-	218.253.0.183	picasaweb.google.com
+	64.15.119.211	places.google.com
+	64.15.119.211	sandbox.google.com
+	64.15.119.211	scholar.google.com
+	64.15.119.211	translate.google.com
+	64.15.119.211	video.google.com
+	64.15.119.211	voice.google.com
 	
-	218.253.0.183	gmail.com
-	218.253.0.183	www.gmail.com
-	218.253.0.183	blogger.com
-	218.253.0.183	inbox.google.com
-	218.253.0.183	www.blogger.com
-	218.253.0.183	blogspot.com
-	218.253.0.183	www.blogspot.com
+	64.15.119.211	picasa.google.com
+	64.15.119.211	picasaweb.google.com
 	
-	218.253.0.183	golang.org
-	218.253.0.183	apis.google.com
-	218.253.0.183	android.googleapis.com
-	218.253.0.183	play.googleapis.com
-	218.253.0.183	plus.googleapis.com
-	218.253.0.183	ajax.googleapis.com
-	218.253.0.183	chart.googleapis.com
-	218.253.0.183	fonts.googleapis.com
-	218.253.0.183	translate.googleapis.com
-	218.253.0.183	maps.googleapis.com
-	218.253.0.183	content.googleapis.com
-	218.253.0.183	storage.googleapis.com
-	218.253.0.183	commondatastorage.googleapis.com
+	64.15.119.211	gmail.com
+	64.15.119.211	www.gmail.com
+	64.15.119.211	blogger.com
+	
+	
+	64.15.119.211	www.blogger.com
+	64.15.119.211	blogspot.com
+	64.15.119.211	www.blogspot.com
+	
+	64.15.119.211	golang.org
+	64.15.119.211	apis.google.com
+	64.15.119.211	android.googleapis.com
+	64.15.119.211	play.googleapis.com
+	64.15.119.211	plus.googleapis.com
+	64.15.119.211	ajax.googleapis.com
+	64.15.119.211	chart.googleapis.com
+	64.15.119.211	fonts.googleapis.com
+	64.15.119.211	translate.googleapis.com
+	64.15.119.211	maps.googleapis.com
+	64.15.119.211	content.googleapis.com
+	64.15.119.211	storage.googleapis.com
+	64.15.119.211	commondatastorage.googleapis.com
 	
 	208.117.255.230	android.com
 	208.117.255.230	www.android.com
@@ -70,28 +73,28 @@
 	208.117.255.230	market.android.com
 	208.117.255.230	source.android.com
 	
-	218.253.0.183	chromium.org
-	218.253.0.183	www.chromium.org
-	218.253.0.183	dev.chromium.org
+	64.15.119.211	chromium.org
+	64.15.119.211	www.chromium.org
+	64.15.119.211	dev.chromium.org
 	
-	218.253.0.183	support.google.com
-	218.253.0.183	history.google.com
-	218.253.0.183	adwords.google.com
-	218.253.0.183	feedburner.google.com
-	218.253.0.183	feedproxy.google.com
+	64.15.119.211	support.google.com
+	64.15.119.211	history.google.com
+	64.15.119.211	adwords.google.com
+	64.15.119.211	feedburner.google.com
+	64.15.119.211	feedproxy.google.com
 	
-	218.253.0.183	android.googlesource.com
-	218.253.0.183	chromium.googlesource.com
-	218.253.0.183	gerrit.googlesource.com
-	218.253.0.183	kernel.googlesource.com
+	64.15.119.211	android.googlesource.com
+	64.15.119.211	chromium.googlesource.com
+	64.15.119.211	gerrit.googlesource.com
+	64.15.119.211	kernel.googlesource.com
 	
-	218.253.0.183	talkgadget.google.com
-	218.253.0.183	plus.url.google.com
+	64.15.119.211	talkgadget.google.com
+	64.15.119.211	plus.url.google.com
 	
-	218.253.0.183	googlesource.com
-	218.253.0.183	www.googlesource.com
-	218.253.0.183	www.googleusercontent.com
+	64.15.119.211	googlesource.com
+	64.15.119.211	www.googlesource.com
+	64.15.119.211	www.googleusercontent.com
 	
-	218.253.0.183	upload.google.com
-	218.253.0.183	dl.google.com
-	218.253.0.183	desktop.google.com
+	64.15.119.211	upload.google.com
+	64.15.119.211	dl.google.com
+	64.15.119.211	desktop.google.com
