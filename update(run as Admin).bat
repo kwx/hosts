@@ -4,7 +4,7 @@ ipconfig /flushdns
 git pull
 cls
 
-copy /y hosts 	%windir%\System32\drivers\etc\hosts
+copy /y hosts.txt 	%windir%\System32\drivers\etc\hosts
 copy /b %windir%\System32\drivers\etc\hosts + google.txt  %windir%\System32\drivers\etc\hosts
 copy /b %windir%\System32\drivers\etc\hosts + others.txt  %windir%\System32\drivers\etc\hosts
 copy /b %windir%\System32\drivers\etc\hosts + ads.txt %windir%\System32\drivers\etc\hosts
