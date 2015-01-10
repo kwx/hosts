@@ -1,6 +1,6 @@
 #! /bin/sh
 echo "basic hosts"
-cp hosts /etc
+cp hosts.txt /etc
 
 git pull
 
