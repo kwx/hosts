@@ -349,6 +349,44 @@
 	64.15.120.25	gp4.googleusercontent.com
 	64.15.120.25	gp5.googleusercontent.com
 	64.15.120.25	gp6.googleusercontent.com
+#Gstatic¡ý
+	64.233.176.113	www.gstatic.com
+	64.233.176.113	ssl.gstatic.com
+	64.233.176.113	csi.gstatic.com
+	64.233.176.113	csi.l.google.com
+	64.233.176.113	maps.gstatic.com
+	64.233.176.113	fonts.gstatic.com
+	64.233.176.113	encrypted-tbn0.gstatic.com
+	64.233.176.113	encrypted-tbn1.gstatic.com
+	64.233.176.113	encrypted-tbn2.gstatic.com
+	64.233.176.113	encrypted-tbn3.gstatic.com
+	64.233.176.113	encrypted-tbn4.gstatic.com
+	64.233.176.113	encrypted-tbn5.gstatic.com
+	64.233.176.113	encrypted-tbn6.gstatic.com
+	64.233.176.113	g0.gstatic.com
+	64.233.176.113	g1.gstatic.com
+	64.233.176.113	g2.gstatic.com
+	64.233.176.113	g3.gstatic.com
+	64.233.176.113	g4.gstatic.com
+	64.233.176.113	g5.gstatic.com
+	64.233.176.113	g6.gstatic.com
+	64.233.176.113	g7.gstatic.com
+	64.233.169.98	mt0.gstatic.com
+	64.233.169.98	mt1.gstatic.com
+	64.233.169.98	mt2.gstatic.com
+	64.233.169.98	mt3.gstatic.com
+	64.233.169.98	mt4.gstatic.com
+	64.233.169.98	mt5.gstatic.com
+	64.233.169.98	mt6.gstatic.com
+	64.233.169.98	mt7.gstatic.com
+	64.233.169.98	t0.gstatic.com
+	64.233.169.98	t1.gstatic.com
+	64.233.169.98	t2.gstatic.com
+	64.233.169.98	t3.gstatic.com
+	64.233.169.98	t4.gstatic.com
+	64.233.169.98	t5.gstatic.com
+	64.233.169.98	t6.gstatic.com
+	64.233.169.98	t7.gstatic.com
 #Android & Play
 	208.117.255.230	android.com
 	208.117.255.230	www.android.com
@@ -473,5 +511,5 @@
 	216.58.220.142	ytimg.l.google.com
 	216.58.220.142	s0-2mdn-net.l.google.com
 	216.58.220.142	youtube-ui.l.google.com
-	64.233.189.136	manifest.googlevideo.com
+	64.233.169.98	manifest.googlevideo.com
 	216.58.220.142	redirector.googlevideo.com
