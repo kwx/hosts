@@ -158,7 +158,7 @@
 	64.15.120.25	16.docs.google.com
 	64.15.120.25	16.drive.google.com
 	64.15.120.25	v3.cache1.c.docs.google.com
-#Googleusercontent¡ý
+#Googleusercontent
 	64.15.120.25	www.googleusercontent.com
 	64.15.120.25	googlehosted.l.googleusercontent.com
 	64.15.120.25	oauth.googleusercontent.com
@@ -605,6 +605,389 @@
 	64.233.161.117	uploads.stage.gdata.youtube.com
 	64.233.161.117	uploads.code.google.com
 	64.233.161.117	uploads.clients.google.com
+#Home Search
+	64.233.161.117		www.g.cn
+	64.233.161.117		www.google.ad
+	64.233.161.117		www.google.ae
+	64.233.161.117		www.google.com.af
+	64.233.161.117		www.google.com.ag
+	64.233.161.117		www.google.com.ai
+	64.233.161.117		www.google.al
+	64.233.161.117		www.google.am
+	64.233.161.117		www.google.co.ao
+	64.233.161.117		www.google.com.ar
+	64.233.161.117		www.google.as
+	64.233.161.117		www.google.at
+	64.233.161.117		www.google.com.au
+	64.233.161.117		www.google.az
+	64.233.161.117		www.google.ba
+	64.233.161.117		www.google.com.bd
+	64.233.161.117		www.google.be
+	64.233.161.117		www.google.bf
+	64.233.161.117		www.google.bg
+	64.233.161.117		www.google.com.bh
+	64.233.161.117		www.google.bi
+	64.233.161.117		www.google.bj
+	64.233.161.117		www.google.com.bn
+	64.233.161.117		www.google.com.bo
+	64.233.161.117		www.google.com.br
+	64.233.161.117		www.google.bs
+	64.233.161.117		www.google.bt
+	64.233.161.117		www.google.co.bw
+	64.233.161.117		www.google.by
+	64.233.161.117		www.google.com.bz
+	64.233.161.117		www.google.ca
+	64.233.161.117		www.google.cd
+	64.233.161.117		www.google.cf
+	64.233.161.117		www.google.cg
+	64.233.161.117		www.google.ch
+	64.233.161.117		www.google.ci
+	64.233.161.117		www.google.co.ck
+	64.233.161.117		www.google.cl
+	64.233.161.117		www.google.cm
+	64.233.161.117		www.google.cn
+	64.233.161.117		www.google.com.co
+	64.233.161.117		www.google.co.cr
+	64.233.161.117		www.google.com.cu
+	64.233.161.117		www.google.cv
+	64.233.161.117		www.google.com.cy
+	64.233.161.117		www.google.cz
+	64.233.161.117		www.google.de
+	64.233.161.117		www.google.dj
+	64.233.161.117		www.google.dk
+	64.233.161.117		www.google.dm
+	64.233.161.117		www.google.com.do
+	64.233.161.117		www.google.dz
+	64.233.161.117		www.google.com.ec
+	64.233.161.117		www.google.ee
+	64.233.161.117		www.google.com.eg
+	64.233.161.117		www.google.es
+	64.233.161.117		www.google.com.et
+	64.233.161.117		www.google.fi
+	64.233.161.117		www.google.com.fj
+	64.233.161.117		www.google.fm
+	64.233.161.117		www.google.fr
+	64.233.161.117		www.google.ga
+	64.233.161.117		www.google.ge
+	64.233.161.117		www.google.gg
+	64.233.161.117		www.google.com.gh
+	64.233.161.117		www.google.com.gi
+	64.233.161.117		www.google.gl
+	64.233.161.117		www.google.gm
+	64.233.161.117		www.google.gp
+	64.233.161.117		www.google.gr
+	64.233.161.117		www.google.com.gt
+	64.233.161.117		www.google.gy
+	64.233.161.117		www.google.hn
+	64.233.161.117		www.google.hr
+	64.233.161.117		www.google.ht
+	64.233.161.117		www.google.hu
+	64.233.161.117		www.google.co.id
+	64.233.161.117		www.google.ie
+	64.233.161.117		www.google.co.il
+	64.233.161.117		www.google.im
+	64.233.161.117		www.google.co.in
+	64.233.161.117		www.google.iq
+	64.233.161.117		www.google.is
+	64.233.161.117		www.google.it
+	64.233.161.117		www.google.je
+	64.233.161.117		www.google.com.jm
+	64.233.161.117		www.google.jo
+	64.233.161.117		www.google.co.jp
+	64.233.161.117		www.google.co.ke
+	64.233.161.117		www.google.com.kh
+	64.233.161.117		www.google.ki
+	64.233.161.117		www.google.kg
+	64.233.161.117		www.google.co.kr
+	64.233.161.117		www.google.com.kw
+	64.233.161.117		www.google.kz
+	64.233.161.117		www.google.la
+	64.233.161.117		www.google.com.lb
+	64.233.161.117		www.google.li
+	64.233.161.117		www.google.lk
+	64.233.161.117		www.google.co.ls
+	64.233.161.117		www.google.lt
+	64.233.161.117		www.google.lu
+	64.233.161.117		www.google.lv
+	64.233.161.117		www.google.com.ly
+	64.233.161.117		www.google.co.ma
+	64.233.161.117		www.google.md
+	64.233.161.117		www.google.me
+	64.233.161.117		www.google.mg
+	64.233.161.117		www.google.mk
+	64.233.161.117		www.google.ml
+	64.233.161.117		www.google.com.mm
+	64.233.161.117		www.google.mn
+	64.233.161.117		www.google.ms
+	64.233.161.117		www.google.com.mt
+	64.233.161.117		www.google.mu
+	64.233.161.117		www.google.mv
+	64.233.161.117		www.google.mw
+	64.233.161.117		www.google.com.mx
+	64.233.161.117		www.google.com.my
+	64.233.161.117		www.google.co.mz
+	64.233.161.117		www.google.com.na
+	64.233.161.117		www.google.com.nf
+	64.233.161.117		www.google.com.ng
+	64.233.161.117		www.google.com.ni
+	64.233.161.117		www.google.ne
+	64.233.161.117		www.google.nl
+	64.233.161.117		www.google.no
+	64.233.161.117		www.google.com.np
+	64.233.161.117		www.google.nr
+	64.233.161.117		www.google.nu
+	64.233.161.117		www.google.co.nz
+	64.233.161.117		www.google.com.om
+	64.233.161.117		www.google.com.pa
+	64.233.161.117		www.google.com.pe
+	64.233.161.117		www.google.com.pg
+	64.233.161.117		www.google.com.ph
+	64.233.161.117		www.google.com.pk
+	64.233.161.117		www.google.pl
+	64.233.161.117		www.google.pn
+	64.233.161.117		www.google.com.pr
+	64.233.161.117		www.google.ps
+	64.233.161.117		www.google.pt
+	64.233.161.117		www.google.com.py
+	64.233.161.117		www.google.com.qa
+	64.233.161.117		www.google.ro
+	64.233.161.117		www.google.ru
+	64.233.161.117		www.google.rw
+	64.233.161.117		www.google.com.sa
+	64.233.161.117		www.google.com.sb
+	64.233.161.117		www.google.sc
+	64.233.161.117		www.google.se
+	64.233.161.117		www.google.com.sg
+	64.233.161.117		www.google.sh
+	64.233.161.117		www.google.si
+	64.233.161.117		www.google.sk
+	64.233.161.117		www.google.com.sl
+	64.233.161.117		www.google.sn
+	64.233.161.117		www.google.so
+	64.233.161.117		www.google.sm
+	64.233.161.117		www.google.st
+	64.233.161.117		www.google.com.sv
+	64.233.161.117		www.google.td
+	64.233.161.117		www.google.tg
+	64.233.161.117		www.google.co.th
+	64.233.161.117		www.google.com.tj
+	64.233.161.117		www.google.tk
+	64.233.161.117		www.google.tl
+	64.233.161.117		www.google.tm
+	64.233.161.117		www.google.tn
+	64.233.161.117		www.google.to
+	64.233.161.117		www.google.com.tr
+	64.233.161.117		www.google.tt
+	64.233.161.117		www.google.com.tw
+	64.233.161.117		www.google.co.tz
+	64.233.161.117		www.google.com.ua
+	64.233.161.117		www.google.co.ug
+	64.233.161.117		www.google.co.uk
+	64.233.161.117		www.google.com.uy
+	64.233.161.117		www.google.co.uz
+	64.233.161.117		www.google.com.vc
+	64.233.161.117		www.google.co.ve
+	64.233.161.117		www.google.vg
+	64.233.161.117		www.google.co.vi
+	64.233.161.117		www.google.com.vn
+	64.233.161.117		www.google.vu
+	64.233.161.117		www.google.ws
+	64.233.161.117		www.google.rs
+	64.233.161.117		www.google.co.za
+	64.233.161.117		www.google.co.zm
+	64.233.161.117		www.google.co.zw
+	64.233.161.117		www.google.cat
+	64.233.161.117		g.cn
+	64.233.161.117		google.ad
+	64.233.161.117		google.ae
+	64.233.161.117		google.com.af
+	64.233.161.117		google.com.ag
+	64.233.161.117		google.com.ai
+	64.233.161.117		google.al
+	64.233.161.117		google.am
+	64.233.161.117		google.co.ao
+	64.233.161.117		google.com.ar
+	64.233.161.117		google.as
+	64.233.161.117		google.at
+	64.233.161.117		google.com.au
+	64.233.161.117		google.az
+	64.233.161.117		google.ba
+	64.233.161.117		google.com.bd
+	64.233.161.117		google.be
+	64.233.161.117		google.bf
+	64.233.161.117		google.bg
+	64.233.161.117		google.com.bh
+	64.233.161.117		google.bi
+	64.233.161.117		google.bj
+	64.233.161.117		google.com.bn
+	64.233.161.117		google.com.bo
+	64.233.161.117		google.com.br
+	64.233.161.117		google.bs
+	64.233.161.117		google.bt
+	64.233.161.117		google.co.bw
+	64.233.161.117		google.by
+	64.233.161.117		google.com.bz
+	64.233.161.117		google.ca
+	64.233.161.117		google.cd
+	64.233.161.117		google.cf
+	64.233.161.117		google.cg
+	64.233.161.117		google.ch
+	64.233.161.117		google.ci
+	64.233.161.117		google.co.ck
+	64.233.161.117		google.cl
+	64.233.161.117		google.cm
+	64.233.161.117		google.cn
+	64.233.161.117		google.com.co
+	64.233.161.117		google.co.cr
+	64.233.161.117		google.com.cu
+	64.233.161.117		google.cv
+	64.233.161.117		google.com.cy
+	64.233.161.117		google.cz
+	64.233.161.117		google.de
+	64.233.161.117		google.dj
+	64.233.161.117		google.dk
+	64.233.161.117		google.dm
+	64.233.161.117		google.com.do
+	64.233.161.117		google.dz
+	64.233.161.117		google.com.ec
+	64.233.161.117		google.ee
+	64.233.161.117		google.com.eg
+	64.233.161.117		google.es
+	64.233.161.117		google.com.et
+	64.233.161.117		google.fi
+	64.233.161.117		google.com.fj
+	64.233.161.117		google.fm
+	64.233.161.117		google.fr
+	64.233.161.117		google.ga
+	64.233.161.117		google.ge
+	64.233.161.117		google.gg
+	64.233.161.117		google.com.gh
+	64.233.161.117		google.com.gi
+	64.233.161.117		google.gl
+	64.233.161.117		google.gm
+	64.233.161.117		google.gp
+	64.233.161.117		google.gr
+	64.233.161.117		google.com.gt
+	64.233.161.117		google.gy
+	64.233.161.117		google.hn
+	64.233.161.117		google.hr
+	64.233.161.117		google.ht
+	64.233.161.117		google.hu
+	64.233.161.117		google.co.id
+	64.233.161.117		google.ie
+	64.233.161.117		google.co.il
+	64.233.161.117		google.im
+	64.233.161.117		google.co.in
+	64.233.161.117		google.iq
+	64.233.161.117		google.is
+	64.233.161.117		google.it
+	64.233.161.117		google.je
+	64.233.161.117		google.com.jm
+	64.233.161.117		google.jo
+	64.233.161.117		google.co.jp
+	64.233.161.117		google.co.ke
+	64.233.161.117		google.com.kh
+	64.233.161.117		google.ki
+	64.233.161.117		google.kg
+	64.233.161.117		google.co.kr
+	64.233.161.117		google.com.kw
+	64.233.161.117		google.kz
+	64.233.161.117		google.la
+	64.233.161.117		google.com.lb
+	64.233.161.117		google.li
+	64.233.161.117		google.lk
+	64.233.161.117		google.co.ls
+	64.233.161.117		google.lt
+	64.233.161.117		google.lu
+	64.233.161.117		google.lv
+	64.233.161.117		google.com.ly
+	64.233.161.117		google.co.ma
+	64.233.161.117		google.md
+	64.233.161.117		google.me
+	64.233.161.117		google.mg
+	64.233.161.117		google.mk
+	64.233.161.117		google.ml
+	64.233.161.117		google.com.mm
+	64.233.161.117		google.mn
+	64.233.161.117		google.ms
+	64.233.161.117		google.com.mt
+	64.233.161.117		google.mu
+	64.233.161.117		google.mv
+	64.233.161.117		google.mw
+	64.233.161.117		google.com.mx
+	64.233.161.117		google.com.my
+	64.233.161.117		google.co.mz
+	64.233.161.117		google.com.na
+	64.233.161.117		google.com.nf
+	64.233.161.117		google.com.ng
+	64.233.161.117		google.com.ni
+	64.233.161.117		google.ne
+	64.233.161.117		google.nl
+	64.233.161.117		google.no
+	64.233.161.117		google.com.np
+	64.233.161.117		google.nr
+	64.233.161.117		google.nu
+	64.233.161.117		google.co.nz
+	64.233.161.117		google.com.om
+	64.233.161.117		google.com.pa
+	64.233.161.117		google.com.pe
+	64.233.161.117		google.com.pg
+	64.233.161.117		google.com.ph
+	64.233.161.117		google.com.pk
+	64.233.161.117		google.pl
+	64.233.161.117		google.pn
+	64.233.161.117		google.com.pr
+	64.233.161.117		google.ps
+	64.233.161.117		google.pt
+	64.233.161.117		google.com.py
+	64.233.161.117		google.com.qa
+	64.233.161.117		google.ro
+	64.233.161.117		google.ru
+	64.233.161.117		google.rw
+	64.233.161.117		google.com.sa
+	64.233.161.117		google.com.sb
+	64.233.161.117		google.sc
+	64.233.161.117		google.se
+	64.233.161.117		google.com.sg
+	64.233.161.117		google.sh
+	64.233.161.117		google.si
+	64.233.161.117		google.sk
+	64.233.161.117		google.com.sl
+	64.233.161.117		google.sn
+	64.233.161.117		google.so
+	64.233.161.117		google.sm
+	64.233.161.117		google.st
+	64.233.161.117		google.com.sv
+	64.233.161.117		google.td
+	64.233.161.117		google.tg
+	64.233.161.117		google.co.th
+	64.233.161.117		google.com.tj
+	64.233.161.117		google.tk
+	64.233.161.117		google.tl
+	64.233.161.117		google.tm
+	64.233.161.117		google.tn
+	64.233.161.117		google.to
+	64.233.161.117		google.com.tr
+	64.233.161.117		google.tt
+	64.233.161.117		google.com.tw
+	64.233.161.117		google.co.tz
+	64.233.161.117		google.com.ua
+	64.233.161.117		google.co.ug
+	64.233.161.117		google.co.uk
+	64.233.161.117		google.com.uy
+	64.233.161.117		google.co.uz
+	64.233.161.117		google.com.vc
+	64.233.161.117		google.co.ve
+	64.233.161.117		google.vg
+	64.233.161.117		google.co.vi
+	64.233.161.117		google.com.vn
+	64.233.161.117		google.vu
+	64.233.161.117		google.ws
+	64.233.161.117		google.rs
+	64.233.161.117		google.co.za
+	64.233.161.117		google.co.zm
+	64.233.161.117		google.co.zw
+	64.233.161.117		google.cat
 #Android & Play
 	208.117.255.230	android.com
 	208.117.255.230	www.android.com
@@ -2314,9 +2697,7 @@
 	64.15.120.25	wave.google.com
 	64.15.120.25	webcache.googleusercontent.com
 	64.15.120.25	wenda.google.com.hk
-	64.15.120.25	www.gmail.com
-	64.15.120.25	www.google.com
-	64.15.120.25	www.google.com.hk
+	
 	64.15.120.25	www.googleadservices.com
 	64.15.120.25	www.google-analytics.com
 	64.15.120.25	www.googleapis.com
@@ -2326,7 +2707,7 @@
 	64.15.120.25	www-opensocial.googleusercontent.com
 	64.15.120.25	www-oz-opensocial.googleusercontent.com
 	64.15.120.25	r3270-dot-latest-dot-project-slingshot-gp.appspot.com
-
+	
 	64.15.120.25	mt0.googleapis.com
 	64.15.120.25	mt1.googleapis.com
 	64.15.120.25	mt2.googleapis.com
@@ -2356,7 +2737,7 @@
 	64.15.120.25	talk.google.com
 	64.15.120.25	talk.l.google.com
 	64.15.120.25	ytimg.l.google.com
-
+	
 	64.15.120.25	uploads.clients.google.com
 	64.15.120.25	uploads.client.google.com
 	64.15.120.25	upload.clients.google.com
@@ -2365,21 +2746,14 @@
 	64.15.120.25	upload.drive.google.com
 	64.15.120.25	upload.video.google.com
 	64.15.120.25	uploads.stage.gdata.youtube.com
-
-
-
-
+	
 	64.15.120.25	m-dot-betaspike.appspot.com
 	64.15.120.25	betaspike.appspot.com
 	64.15.120.25	chrometophone.appspot.com
 	64.15.120.25	lfe-alpo-gm.appspot.com
 	64.15.120.25	accounts.l.google.com
 	64.15.120.25	clients.l.google.com
-
-
-
-
-
+	
 	64.15.120.25	lh0.ggpht.com
 	64.15.120.25	nt4.ggpht.com
 	64.15.120.25	nt5.ggpht.com
