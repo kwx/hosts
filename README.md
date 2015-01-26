@@ -4,13 +4,11 @@
 3. 如果hosts失效,可以來本項目下載最新的，到项目页面右边提交issues,如果我没有及时更新，可以到下面"其他hosts"更新
 
 ####Declare
-1. 大部分hosts均来自互联网，只是就放到这里，方便更多可能需要用到的人
-2. 使用该hosts前请自行百科，需要明确可能带来的问题，自行承担风险
-3. 欢迎fork 和pull request
-4. 请不要到处散播ip,只在小范围内分享.
+1. hosts列表来自互联网,感谢他们的无私奉献
+2. 使用该hosts前请自行百科，明确可能带来的问题，需要自行承担风险
+3. 请不要到处散播ip,只在小范围内分享.
 
 ####其他hosts
-
   [imouto.hosts](https://github.com/zxdrive/imouto.host)
   [txthinking](https://github.com/txthinking/google-hosts.git)
   [月光博客](http://blog.sina.com.cn/s/blog_591839200102v44p.html?tj=1) 
@@ -21,7 +19,3 @@
   [oschina](http://git.oschina.net/jiange1236/googlehosts/)
   [Acrylated](https://github.com/LGA1150/Acrylated-imouto.host)
   [Projecth](https://www.projecth.us/sources)
-
-####建议
-
-可用的google ip越来越少，而且很不稳定。建议使用shadowsocks.
