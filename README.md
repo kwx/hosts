@@ -6,7 +6,7 @@
 ####Declare
 1. hosts列表来自互联网,感谢他们的无私奉献
 2. 使用该hosts前请自行百科，明确可能带来的问题，需要自行承担风险
-3. 请不要到处散播ip,只在小范围内分享.
+3. ip资源有限，自己用就好了，不建议大范围散播
 
 ####其他hosts
   [imouto.hosts](https://github.com/zxdrive/imouto.host)
