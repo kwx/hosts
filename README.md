@@ -5,8 +5,8 @@
 
 ####Declare
 1. hosts列表来自互联网,感谢他们的无私奉献
-2. 使用该hosts前请自行百科，明确可能带来的问题，需要自行承担风险
-3. ip资源有限，自己用就好了，不建议大范围散播
+2. 使用该hosts前请自行[百科](http://zh.wikipedia.org/wiki/Hosts%E6%96%87%E4%BB%B6)，明确可能带来的问题，自行承担风险
+3. Google ip资源有限，自己用就好了，不建议大范围散播
 
 ####其他hosts
   [imouto.hosts](https://github.com/zxdrive/imouto.host)
